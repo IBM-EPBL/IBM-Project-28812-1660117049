@@ -7,7 +7,10 @@ Personal Assistance for Seniors Who are Self-Reliant.
 
 Sometimes elderly people forget to take their medicine at the correct time. They also forget which medicine He / She should take at that particular time. And it is difficult for doctors/caretakers to monitor the patients around the clock. To avoid this problem, this medicine reminder system is developed.
 
+## Introduction
 
+Sometimes patients forget to take medicine at thr required time of medicines.And sometimes patient also forgets which medicine He/She have to take at required time. 
+And it is difficult for Doctor/Compounder to monitor patients around the clock.To avoid this problem,we have made this medicine reminder system for patients using Arduino.
 
 
 ## Used By
@@ -29,6 +32,24 @@ Contributors:
         Divyathirthamalai
         Mahalaskshmi010
         Suruthika.M
+        
+## Completed Tasks
+
+* Brainstorm and Ideation
+* Problem Statement
+* Empathy Map
+* Assignment-1
+* Assignment-2
+* Assignment-3
+* Assignment-4
+* Proposed Solution
+* Proposed Solution Fit
+* Solution Architecture
+* Data Flow Diagram
+* Solution Requirements
+* Technology Stack
+* Customer Journey Map
+
 
 ## Tech Stack
 
@@ -53,3 +74,5 @@ C++
 Remembering to take your medications can be difficult,especially if you take many throughout the day
 Apps on your phone can help you remember to take your medications.Many apps  also have different customizable features.
 This app will remind them to take medicine at correct time.
+
+## 
