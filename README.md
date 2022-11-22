@@ -2,7 +2,7 @@
 Personal Assistance for Seniors Who Are Self-Reliant This repo is our project which was done under the guidance of IBM-Nalaiya Thiran Scheme
 
 App Link:-  
-        https//drive.google.com/drive/folders/1bkjwWD57PJIfam2pdxU6XefIRI9kv6b
+          https//drive.google.com/drive/folders/1bkjwWD57PJIfam2pdxU6XefIRI9kv6b
         
 Youtube Link:-  
           https://youtu.be/5vhhwiUbeoQ
