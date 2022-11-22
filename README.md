@@ -1,7 +1,8 @@
 # IBM-Project-28812-1660117049
 Personal Assistance for Seniors Who Are Self-Reliant This repo is our project which was done under the guidance of IBM-Nalaiya Thiran Scheme
 
-App Link:-  https//drive.google.com/drive/folders/1bkjwWD57PJIfam2pdxU6XefIRI9kv6b
+App Link:-  
+        https//drive.google.com/drive/folders/1bkjwWD57PJIfam2pdxU6XefIRI9kv6b
 
 
 # Project Title
